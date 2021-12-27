@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "227157510421",
+    "project_id": "foodapp-bb1db",
+    "storage_bucket": "foodapp-bb1db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227157510421:android:281920ebcab8707e76811c",
+        "android_client_info": {
+          "package_name": "com.example.tasteefood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227157510421-a9pj936r5t3ck11vs8id0cp1pil5v6dv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tasteefood",
+            "certificate_hash": "0fd96d5a1c46c9aa5f1b363bda28db06b3c3db78"
+          }
+        },
+        {
+          "client_id": "227157510421-7b3cihaht3to8mf4qvljevi2djugr3bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJqMaZ44f39gejLr9_CbwUd_6FP4hmPtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227157510421-7b3cihaht3to8mf4qvljevi2djugr3bf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
