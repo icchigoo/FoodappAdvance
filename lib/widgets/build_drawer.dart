@@ -23,7 +23,7 @@ class BuildDrawer extends StatelessWidget {
             accountName: Text(userModel.fullName),
             accountEmail: Text(userModel.emailAddress),
             currentAccountPicture: CircleAvatar(
-              backgroundImage: AssetImage("images/non_profile.jpg"),
+              backgroundImage: AssetImage("images/abc.png"),
             ),
           ),
           ListTile(
